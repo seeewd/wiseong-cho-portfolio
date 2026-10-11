@@ -2,6 +2,6 @@
 
 조위성 포트폴리오 사이트.
 
-배포: [https://seeewd.github.io/wiseong-cho-portfolio/](https://seeewd.github.io/wiseong-cho-portfolio/)
+소스: [seeewd/wiseong-cho-portfolio](https://github.com/seeewd/wiseong-cho-portfolio)
 
-`main`에 푸시하면 GitHub Actions가 GitHub Pages로 배포합니다.
+Vercel에서 이 저장소를 Import하면 배포됩니다. 빌드 명령은 `npm run build`입니다.
