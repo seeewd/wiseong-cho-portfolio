@@ -1,0 +1,15 @@
+node_modules
+.vercel
+.output
+dist
+.nitro
+.vinxi
+.grok
+artifacts
+attachments
+screenshots
+*.log
+.env
+.env.*
+pages-out
+
